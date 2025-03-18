@@ -10,7 +10,9 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "cors": "^2.8.5",
     "nuxt": "^3.16.0",
+    "openid-client": "^5.7.1",
     "vue": "^3.5.13",
     "vue-router": "^4.5.0"
   }
